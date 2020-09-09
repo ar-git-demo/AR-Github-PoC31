@@ -1,7 +1,6 @@
 public with sharing class BotController {
-// Commented for demo June-12-2019
-// Developer -1 June-12-2019
-// Test Peter
+// Developer -1 Jan 14 test
+// Test Vignesh test
     class HandlerMapping {
         
         public String handlerClassName;
@@ -25,8 +24,8 @@ public with sharing class BotController {
         }
         handlerMappings = mappings;
     }
-// Commented for demo on June-12-2019
-// Developer -1 June-12-2019    
+// Commented for demo on June-12-2019 test
+// Developer -1 June-12-2019    test
     @AuraEnabled
     public static BotResponse submit(String utterance, Map<String, String> session, String fileName, String fileContent) {
         
