@@ -718,6 +718,7 @@
         <members>Individual.SendIndividualData</members>
         <members>Individual.ShouldForget</members>
         <members>Individual.Website</members>
+        <members>LLC_BI__Loan__c.TestAutoRabitCurrency__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -751,6 +752,7 @@
         <members>Lead.Title</members>
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
+        <members>LoanApplicant.TestAutoRabitString__c</members>
         <members>Macro.Description</members>
         <members>Macro.IsAlohaSupported</members>
         <members>Macro.IsLightningSupported</members>
@@ -986,6 +988,7 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>custom_object_demo__c.testfield__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -1086,6 +1089,7 @@
         <members>TopicAssignment</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>custom_object_demo__c</members>
         <members>custom_object_demo_june_12th__c</members>
         <name>CustomObject</name>
     </types>
@@ -1203,6 +1207,7 @@
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
+        <members>LoanApplicant-Loan Applicant Layout</members>
         <members>Macro-Macro Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
@@ -1226,6 +1231,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>custom_object_demo__c-custom object demo sep09 Layout</members>
         <members>custom_object_demo_june_12th__c-custom object demo june 12 Layout</members>
         <name>Layout</name>
     </types>
@@ -1330,6 +1336,7 @@
         <members>Chatter External User</members>
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
+        <members>Company Communities User</members>
         <members>ContractManager</members>
         <members>Cross Org Data Proxy User</members>
         <members>Custom%3A Marketing Profile</members>
@@ -1359,6 +1366,10 @@
         <members>Standard</members>
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
+        <members>nCino - Lite Seat Profile</members>
+        <members>nCino - Premium CRM Profile</members>
+        <members>nCino - Standard Platform Data View Profile</members>
+        <members>nCino - Standard Platform Profile</members>
         <name>Profile</name>
     </types>
     <types>
