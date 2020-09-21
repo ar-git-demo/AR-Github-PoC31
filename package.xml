@@ -124,6 +124,7 @@
     <types>
         <members>Broker__c.Broker_Compact</members>
         <members>Property__c.Property_Compact_Layout</members>
+        <members>custom_object_demo_june_12th__c.NewCompactLayOut</members>
         <name>CompactLayout</name>
     </types>
     <types>
@@ -482,6 +483,7 @@
         <members>Contact.MailingAddress</members>
         <members>Contact.MobilePhone</members>
         <members>Contact.Name</members>
+        <members>Contact.NewField__c</members>
         <members>Contact.OtherAddress</members>
         <members>Contact.OtherPhone</members>
         <members>Contact.OwnerId</members>
@@ -1221,7 +1223,12 @@
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
         <members>custom_object_demo__c.testfield__c</members>
+        <members>custom_object_demo_june_12th__c.NewField__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>NewCustomLabel</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>Account</members>
@@ -1663,6 +1670,14 @@
         <members>nCino - Standard Platform Data View Profile</members>
         <members>nCino - Standard Platform Profile</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>PT6_profilePasswordPolicy1600714204549</members>
+        <name>ProfilePasswordPolicy</name>
+    </types>
+    <types>
+        <members>PT6_profileSessionSetting1600714204653</members>
+        <name>ProfileSessionSetting</name>
     </types>
     <types>
         <members>Case.LogACall</members>
