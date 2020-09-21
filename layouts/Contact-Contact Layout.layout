@@ -40,6 +40,10 @@
                 <behavior>Edit</behavior>
                 <field>LeadSource</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>NewField__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -235,11 +239,6 @@
             <sortOrder>14</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-            <actionName>EmailHighlightAction</actionName>
-            <actionType>ProductivityAction</actionType>
-            <sortOrder>23</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>Delete</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>15</sortOrder>
@@ -278,6 +277,11 @@
             <actionName>SmsHighlightAction</actionName>
             <actionType>ProductivityAction</actionType>
             <sortOrder>22</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>EmailHighlightAction</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>23</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <quickActionList>
